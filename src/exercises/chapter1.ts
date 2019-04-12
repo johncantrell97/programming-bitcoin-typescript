@@ -6,6 +6,7 @@ interface ArrayDictionary {
 
 class Chapter1 {
   public run(): void {
+    console.log('## CHAPTER 1 ##');
     this.exercise2();
     this.exercise4();
     this.exercise5();
